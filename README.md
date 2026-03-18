@@ -102,14 +102,3 @@ This Jupyter Notebook (.ipynb) builds upon the tutorial materials provided in th
 
 Credit and gratitude to the original authors for the foundational structure.
 
----
-
-## Copyright Statement
-The original codebase for this project is the intellectual property of the university couse: ELEC 390 Principles of Design and Development. All rights to the core architecture, foundational algorithms, and pre-existing implementation are retained by the course.
-
-My contributions are limited to:
-- Debugging and resolving defects in the execution pipeline
-- Modifications required for functional correctness
-- Performance optimizations specific to the runtime environment
-
-I assert copyright only over these specific remedial modifications. The majority of the codebase, including all original design patterns, proprietary methodologies, and core functionality remains exclusively owned by the course - ELEC 390 Principles of Design and Development. This notice does not transfer any ownership rights of the ELEC 390 tutorials original code.
